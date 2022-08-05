@@ -153,7 +153,7 @@ EOF  all  create  destroy  help  quit  show  update
 ** no instance found **
 (hbnb) quit
 ```
-![VideoRecord](https://github.com/YohanesGetinet1/AirBnB_clone/2xkqk-ch184.gif)
+![VideoRecord](https://github.com/YohanesGetinet1/AirBnB_clone/blob/main/Readme_photoAndVideo/2xkqk-ch184.gif)
 
 
 ## Authors
