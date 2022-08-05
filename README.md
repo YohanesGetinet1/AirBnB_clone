@@ -6,6 +6,7 @@ A command interpreter is created in this segment to manage objects for the AirBn
 ![AirBnB console](Readme_photo/815046647d23428a14ca.png)
 
 
+
 #### Functionalities of this command interpreter:
 
 * Create a new object (ex: a new User or a new Place)
@@ -152,6 +153,7 @@ EOF  all  create  destroy  help  quit  show  update
 ** no instance found **
 (hbnb) quit
 ```
+![VideoRecord](Readme_photo/2xkqk-ch184.gif)
 
 
 ## Authors
