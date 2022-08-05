@@ -2,8 +2,8 @@
 The console is the first segment of the AirBnB project at Holberton School that will collectively cover fundamental concepts of higher level programming. The goal of AirBnB project is to eventually deploy our server a simple copy of the AirBnB Website. 
 A command interpreter is created in this segment to manage objects for the AirBnB(HBnB) website.
 
-![AirBnB Logo](/home/yohanes/AirBnB_clone/Readme_photo/65f4a1dd9c51265f49d0.png)
-![AirBnB console](/home/yohanes/AirBnB_clone/Readme_photo/815046647d23428a14ca.png)
+![AirBnB Logo](Readme_photo/65f4a1dd9c51265f49d0.png)
+![AirBnB console](Readme_photo/815046647d23428a14ca.png)
 
 
 #### Functionalities of this command interpreter:
