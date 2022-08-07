@@ -157,4 +157,4 @@ EOF  all  create  destroy  help  quit  show  update
 
 ## Authors
 Yohanes Getinet - [Github](https://github.com/YohanesGetinet1) / [LinkedIn](https://www.linkedin.com/in/yohanesgetinet/)  
-Yohanes Gutema - [Github](https://github.com/Yohanes-GR) /[LinkedIN](https://www.linkedin.com/in/yohanes-gutema/)
+Yohanes Gutema - [Github](https://github.com/Yohanes-GR) /[LinkedIn](https://www.linkedin.com/in/yohanes-gutema/)
