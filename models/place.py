@@ -1,12 +1,11 @@
 #!/usr/bin/python3
-"""Defining Place model"""
+""" Class Place """
 
 from models.base_model import BaseModel
 
 
 class Place(BaseModel):
-    """Defining Place class"""
-
+    """ Place class that inherits BaseModel """
     city_id = ""
     user_id = ""
     name = ""
@@ -18,8 +17,3 @@ class Place(BaseModel):
     latitude = 0.0
     longitude = 0.0
     amenity_ids = []
-
-    def __init__(self, *args, **kwargs):
-        """initializing Place class"""
-
-        super().__init__(*args, **kwargs)
