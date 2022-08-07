@@ -153,9 +153,8 @@ EOF  all  create  destroy  help  quit  show  update
 ** no instance found **
 (hbnb) quit
 ```
-![VideoRecord](https://github.com/YohanesGetinet1/AirBnB_clone/blob/main/Readme_photoAndVideo/2xkqk-ch184.gif)
 
 
 ## Authors
 Yohanes Getinet - [Github](https://github.com/YohanesGetinet1) / [LinkedIn](https://www.linkedin.com/in/yohanesgetinet/)  
-Yohanes Gutema - 
+Yohanes Gutema - [Github](https://github.com/Yohanes-GR) /[LinkedIN](https://www.linkedin.com/in/yohanes-gutema/)
